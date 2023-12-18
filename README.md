@@ -14,6 +14,8 @@ The performance is worse than both single thread and multi-threads std::sort()
 
                                  10000000 numbers with random order
 std::sort() single thread
+
 std::sort() multi-threads
+
 GPU                     
 
