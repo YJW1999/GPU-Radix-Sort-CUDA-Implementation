@@ -13,9 +13,9 @@ Baseline algorithm: std::sort() single thread && std::sort() multi-threads
 The performance is worse than both single thread and multi-threads std::sort()
 
                                  10000000 numbers with random order(unit ms)
-std::sort() single thread                    2.13
+    std::sort() single thread                    2.13
  
-std::sort() multi-threads                    0.574
+    std::sort() multi-threads                    0.574
 
-GPU                                          5479
+    GPU                                          5479
 
