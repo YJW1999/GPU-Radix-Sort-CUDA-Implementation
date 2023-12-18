@@ -7,9 +7,11 @@ Using 1 thread to set a hist, prefix_sum, and positioning.
 
 Using N(input_size) threads to calculate the number of hist. 
 
+
 Correctness
 
 The code can generate the same result as the std::sort() tested with 10000000 random numbers in random order
+
 
 Performance
 
