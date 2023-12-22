@@ -2,6 +2,7 @@
 The CUDA implementation of the GPU Radix Sort.
 
 Algorithm
+
 The Algorithm is the general way of radix sort
 
 Using 1 thread to set a hist, prefix_sum, and positioning. 
